@@ -88,6 +88,6 @@ Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ens
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="(https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)" 
+    src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" 
 />
 
