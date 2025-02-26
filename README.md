@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ensino médio na Etec de Guarulhos, com o curso Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Estou interessado em ingressar na area, se tiver interesse me contate em meu email: fernandes.nicolas.oliveira@gmail.com ou em meu linkedin "[Nicolas Fernandes](https://www.linkedin.com/in/nicolas-oliveira-9118aao)"
+Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ensino médio na Etec de Guarulhos, com o curso Desenvolvimento de Sistemas. Estou interessado em ingressar na area, se tiver interesse me contate em meu email: fernandes.nicolas.oliveira@gmail.com ou em meu linkedin "[Nicolas Fernandes](https://www.linkedin.com/in/nicolas-oliveira-9118aao)"
 
 
 
