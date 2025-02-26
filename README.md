@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ensino médio na Etec de Guarulhos, com o curso Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Estou interessado em ingressar na area, se tiver interesse me contate em meu email: fernandes.nicolas.oliveira@gmail.com ou em meu linkedin "[Nicolas Fernandes](www.linkedin.com/in/nicolas-oliveira-9118aao)"
+Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ensino médio na Etec de Guarulhos, com o curso Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Estou interessado em ingressar na area, se tiver interesse me contate em meu email: fernandes.nicolas.oliveira@gmail.com ou em meu linkedin "[Nicolas Fernandes](https://www.linkedin.com/in/nicolas-oliveira-9118aao)"
 
 
 
@@ -91,26 +91,3 @@ Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ens
     src="https://www.pngwing.com/en/free-png-athow" 
 />
 
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nicolass9118&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolass9118&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
