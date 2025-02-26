@@ -16,7 +16,8 @@
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-squared/us.svg" 
 />
-
+</br>
+</br>
 Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ensino médio na Etec de Guarulhos, com o curso Desenvolvimento de Sistemas. Estou interessado em ingressar na area, se tiver interesse me contate em meu Email: fernandes.nicolas.oliveira@gmail.com ou em meu linkedin "[Nicolas Fernandes](https://www.linkedin.com/in/nicolas-oliveira-9118aao)"
 
 
