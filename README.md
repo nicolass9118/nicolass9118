@@ -18,7 +18,7 @@
 />
 </br>
 </br>
-Me chamo Nicolas, tenho 16 anos e moro em Gru-SP estou cursando o 3° ano do ensino médio na Etec de Guarulhos, com o curso Desenvolvimento de Sistemas. Estou interessado em ingressar na area, se tiver interesse me contate em meu Email: fernandes.nicolas.oliveira@gmail.com ou em meu linkedin "[Nicolas Fernandes](https://www.linkedin.com/in/nicolas-oliveira-9118aao)"
+Sou Nicolas, tenho 16 anos e moro em Guarulhos-SP, estou cursando o 3° ano do ensino médio - Técnico em Desenvolvimento de Sistemas na Etec de Guarulhos. Estou interessado em ingressar na área, contato pelo meu Email: fernandes.nicolas.oliveira@gmail.com ou linkedin "[Nicolas Fernandes](https://www.linkedin.com/in/nicolas-oliveira-9118aao)"
 
 
 
