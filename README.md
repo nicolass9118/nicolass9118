@@ -21,7 +21,16 @@
 Sou Nicolas, tenho 17 anos e moro em Guarulhos-SP, estou cursando o 3° ano do ensino médio - Técnico em Desenvolvimento de Sistemas na Etec de Guarulhos. Estou interessado em ingressar na área, contato pelo meu Email: fernandes.nicolas.oliveira@gmail.com ou linkedin "[Nicolas Fernandes](https://www.linkedin.com/in/nicolas9118)"
 
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7f3d3c9e-c746-46e4-b698-a795aec21fab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 ### 🤖 Linguagens e Tecnologias
