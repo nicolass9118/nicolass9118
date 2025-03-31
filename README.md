@@ -23,14 +23,12 @@ Sou Nicolas, tenho 17 anos e moro em Guarulhos-SP, estou cursando o 3° ano do e
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="defense"
+    title="defense" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="//cdn.credly.com/assets/utilities/embed.js" 
 />
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7f3d3c9e-c746-46e4-b698-a795aec21fab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 ### 🤖 Linguagens e Tecnologias
