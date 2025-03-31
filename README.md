@@ -29,6 +29,7 @@ Sou Nicolas, tenho 17 anos e moro em Guarulhos-SP, estou cursando o 3° ano do e
     style="padding-right: 10px;" 
     src="//cdn.credly.com/assets/utilities/embed.js" 
 />
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
