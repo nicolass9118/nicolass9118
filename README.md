@@ -81,14 +81,7 @@ Sou Nicolas, tenho 17 anos e moro em Guarulhos-SP, estou cursando o 3° ano do e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -106,3 +99,11 @@ Sou Nicolas, tenho 17 anos e moro em Guarulhos-SP, estou cursando o 3° ano do e
     src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
